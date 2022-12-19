@@ -1,2 +1,1 @@
 module github.com/l4dRUSEN/mymath
-go 1.16

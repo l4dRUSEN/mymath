@@ -1,5 +1,5 @@
 // File: mymath/go.mod
-module github.com/username/mymath
+module github.com/l4dRUSEN/mymath
 
 go 1.16
 
@@ -7,7 +7,7 @@ go 1.16
 package mymath
 
 func Add(a, b int) int {
-    return a + b
+return a + b
 }
 
 // File: main/go.mod
@@ -16,5 +16,7 @@ module main
 go 1.16
 
 require (
-    github.com/username/mymath latest
+github.com/l4dRUSEN/mymath latest
 )
+
+// File: main/main.go
